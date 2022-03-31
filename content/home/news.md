@@ -27,11 +27,10 @@ mainbody (write down the main text)
 -->
 <div style="height: 300px; overflow-y:scroll">
 <details>
-  <summary><font size="5x">2022-03: My first CVPR paper! :sunglasses:</font> </summary>
+  <summary><font size="5x">2022-03: One paper accepted by CVPR 2022! :sunglasses:</font> </summary>
   <p>Our paper "<a href="https://jayye99.github.io/publication/2022_cvpr_udat/">Unsupervised Domain Adaptation for Nighttime Aerial Tracking</a>" is accepted by CVPR 2022 in New Orleans, Louisiana, USA!
   Great thanks to my co-authors~
   </p>
-  <img src=uploads/udat.png  width="550" />
 </details>
 
 <details>

@@ -26,7 +26,7 @@ publication_short: In *CVPR2022*
 abstract: Previous advances in object tracking mostly reported on favorable illumination circumstances while neglecting performance at nighttime, which significantly impeded the development of related aerial robot applications. This work instead develops a novel unsupervised domain adaptation framework for nighttime aerial tracking (named UDAT). Specifically, a unique object discovery approach is provided to generate training patches from raw nighttime tracking videos. To tackle the domain discrepancy, we employ a Transformer-based bridging layer post to the feature extractor to align image features from both domains. With a Transformer day/night feature discriminator, the daytime tracking model is adversarially trained to track at night. Moreover, we construct a pioneering benchmark namely NAT2021 for unsupervised domain adaptive nighttime tracking, which comprises a test set of 180 manually annotated tracking sequences and a train set of over 276k unlabelled nighttime tracking frames. Exhaustive experiments demonstrate the robustness and domain adaptability of the proposed framework in nighttime aerial tracking. The code and benchmark are available at https://github.com/vision4robotics/UDAT.
 
 # Summary. An optional shortened abstract.
-summary: '**CVPR2022.** *Proposed an unsupervised domain adaptation framework to adapt object tracking from daytime to
+summary: '<font color=DAB88B>CVPR2022.</font> *Proposed an unsupervised domain adaptation framework to adapt object tracking from daytime to
 nighttime, along with a nighttime tracking benchmark.*'
 
 tags:

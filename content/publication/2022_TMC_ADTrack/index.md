@@ -38,7 +38,7 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://arxiv.org/abs/2101.08446
+url_pdf: https://ieeexplore.ieee.org/document/9744417
 url_code: https://github.com/vision4robotics/ADTrack_v2
 url_dataset: ''
 url_poster: ''
