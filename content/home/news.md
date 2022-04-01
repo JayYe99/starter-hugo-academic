@@ -27,8 +27,8 @@ mainbody (write down the main text)
 -->
 <div style="height: 300px; overflow-y:scroll">
 <details open>
-  <summary><font size="5x">2022-03: ETH Robotics Student Fellowship! :cow::beer::beer::beer:</font> </summary>
-  <p>I am delighted to be accepted by the <a href="https://center-for-robotics.ethz.ch/education/robotics-student-fellowship.html">ETH RSF program</a>. The acceptance rate is only 5.9%! I will be an incoming research intern in the <a href="http://www.cvg.ethz.ch/index.php">Computer Vision and Geometry group</a> supervised by <a href="https://scholar.google.com/citations?user=YYH0BjEAAAAJ&hl=en">Prof. Marc Pollefeys</a> with full-granted.
+  <summary><font size="5x">2022-03: ETH Robotics Student Fellowship! :beer::beer::beer:</font> </summary>
+  <p>I am delighted to be accepted by the <a href="https://center-for-robotics.ethz.ch/education/robotics-student-fellowship.html">ETH RSF program</a>. The acceptance rate is only 5.9%! This summer, I will be an incoming research intern in the <a href="http://www.cvg.ethz.ch/index.php">Computer Vision and Geometry group</a> led by <a href="https://scholar.google.com/citations?user=YYH0BjEAAAAJ&hl=en">Prof. Marc Pollefeys</a> with a full grant.
   </p>
 </details>
 
