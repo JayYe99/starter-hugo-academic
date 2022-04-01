@@ -26,6 +26,12 @@ mainbody (write down the main text)
 
 -->
 <div style="height: 300px; overflow-y:scroll">
+<details open>
+  <summary><font size="5x">2022-03: ETH Robotics Student Fellowship! :cow::beer::beer::beer:</font> </summary>
+  <p>I am delighted to be accepted by the <a href="https://center-for-robotics.ethz.ch/education/robotics-student-fellowship.html">ETH RSF program</a>. The acceptance rate is only 5.9%! I will be an incoming research intern in the <a href="http://www.cvg.ethz.ch/index.php">Computer Vision and Geometry group</a> supervised by <a href="https://scholar.google.com/citations?user=YYH0BjEAAAAJ&hl=en">Prof. Marc Pollefeys</a> with full-granted.
+  </p>
+</details>
+
 <details>
   <summary><font size="5x">2022-03: One paper accepted by CVPR 2022! :sunglasses:</font> </summary>
   <p>Our paper "<a href="https://jayye99.github.io/publication/2022_cvpr_udat/">Unsupervised Domain Adaptation for Nighttime Aerial Tracking</a>" is accepted by CVPR 2022 in New Orleans, Louisiana, USA!
