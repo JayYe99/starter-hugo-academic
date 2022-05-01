@@ -79,7 +79,7 @@ highlight_name: true
 ---
 :four_leaf_clover: Junjie Ye is currently a Master student in Mechanical Engineering at [Tongji University](https://en.tongji.edu.cn/), Shanghai, China, where he received B.E. degree with **Excellent Graduate Honor** in 2020. 
 
-Since Jan. 2020, I have been working on intelligent visual perception for UAV supervised by [Prof. Changhong Fu](https://scholar.google.com/citations?user=zmbMZ4kAAAAJ&hl=zh-CN). In 2021, I served as a research intern at the Tech&Data Center, JD.COM Inc. In addition, I am collaborating closely with [Dr. Danda Pani Paudel](https://people.ee.ethz.ch/~paudeld/) (Computer Vision Lab, ETHz) and [Prof. Geng Lu](https://www.researchgate.net/profile/Geng-Lu-3) (UAV Lab, Tsinghua University). \
+Since Jan. 2020, I have been working on intelligent visual perception for UAV supervised by [Prof. Changhong Fu](https://scholar.google.com/citations?user=zmbMZ4kAAAAJ&hl=zh-CN). Starting from Apr. 2022, I have been a research student at CVG Group, under the ETH RSF program, advised by [Prof. Marc Pollefeys](https://scholar.google.com/citations?user=YYH0BjEAAAAJ&hl=en) and [Dr. Daniel Barath](https://scholar.google.com/citations?user=U9-D8DYAAAAJ&hl=en). In addition, I am collaborating closely with [Dr. Danda Pani Paudel](https://people.ee.ethz.ch/~paudeld/) (Computer Vision Lab, ETHz) and [Prof. Geng Lu](https://www.researchgate.net/profile/Geng-Lu-3) (UAV Lab, Tsinghua University). \
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_Regular.pdf" "newtab" >}}resumé{{< /staticref >}}.
 <!-- , advised by [Shan An](https://anshan.ai/). -->
 <!-- For more info, please refer to my latest [CV](files/Resume_Regular.pdf). -->

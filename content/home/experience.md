@@ -23,6 +23,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: ETH Robotics Student Fellow
+    company: Computer Vision and Geometry Group, ETH Zürich
+    company_url: "https://cvg.ethz.ch/"
+    company_logo: cvg
+    location: Zürich, Switzerland
+    date_start: '2022-04-01'
+    date_end: ''
+    # description: |2-
+    #     Responsibilities include:
+        
+    #     * Analysing
+    #     * Modelling
+    #     * Deploying
+
   - title: Research Intern
     company: Tech&Data Center, JD.COM Inc
     company_url: ""

@@ -60,4 +60,4 @@ Related works are presented as follows:
 
    > [*Mutation Sensitive Correlation Filter for Real-Time UAV Tracking with Adaptive Hybrid Label*](../../publication/2021_icra_mscf_tracker/) in **ICRA 2021**
 
-![featured](featured1.gif)
+![featured](featured1.gif "Filmed in my hometown using a UAV")
