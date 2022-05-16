@@ -72,4 +72,3 @@ We construct some pioneer benchmarks to serve for the development of nighttime o
 
 
 ![featured](https://jayye99.github.io/project/uavdark135/featured1_hu47b59972aa09e73897af607e7951342f_209882_720x2500_fit_q75_h2_lanczos.webp "[UAVDark135](../uavdark135/)---a pioneering UAV dark tracking benchmark consists of 135 videos with a variety of objects.") 
-

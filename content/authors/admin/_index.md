@@ -25,7 +25,7 @@ bio: My research interests include visual object tracking, deep learning, and ro
 interests:
 - Visual object tracking
 - Unmanned aerial vehicle
-- Image enhancement
+- Visual localization
 - Domain adaptation
 
 # Education to show in About widget
@@ -81,5 +81,8 @@ highlight_name: true
 
 Since Jan. 2020, I have been working on intelligent visual perception for UAV supervised by [Prof. Changhong Fu](https://scholar.google.com/citations?user=zmbMZ4kAAAAJ&hl=zh-CN). Starting from Apr. 2022, I have been a research student at CVG Group, under the ETH RSF program, advised by [Prof. Marc Pollefeys](https://scholar.google.com/citations?user=YYH0BjEAAAAJ&hl=en) and [Dr. Daniel Barath](https://scholar.google.com/citations?user=U9-D8DYAAAAJ&hl=en). In addition, I am collaborating closely with [Dr. Danda Pani Paudel](https://people.ee.ethz.ch/~paudeld/) (Computer Vision Lab, ETHz) and [Prof. Geng Lu](https://www.researchgate.net/profile/Geng-Lu-3) (UAV Lab, Tsinghua University). \
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_Regular.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+<!-- <iframe name="test" src="https://www.youtube.com/watch?v=I1eZnJ_dbfg&feature=youtu.be" scrolling="no" border="0" frameborder="no" align="middle" framespacing="0" allowfullscreen="true" width=720 height=460> </iframe> -->
+
 <!-- , advised by [Shan An](https://anshan.ai/). -->
 <!-- For more info, please refer to my latest [CV](files/Resume_Regular.pdf). -->
