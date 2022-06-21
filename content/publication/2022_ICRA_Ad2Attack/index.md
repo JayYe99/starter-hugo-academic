@@ -51,7 +51,7 @@ url_video: https://github.com/vision4robotics/Ad2Attack
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
