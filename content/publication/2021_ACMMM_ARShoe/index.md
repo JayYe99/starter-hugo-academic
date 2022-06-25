@@ -30,12 +30,12 @@ publication_short: "In *ACM MM2021*"
 
 abstract: Virtual try-on technology enables users to try various fashion items using augmented reality and provides a convenient online shopping experience. However, most previous works focus on the virtual try-on for clothes while neglecting that for shoes, which is also a promising task. To this concern, this work proposes a real-time augmented reality virtual shoe try-on system for smartphones, namely ARShoe. Specifically, ARShoe adopts a novel multi-branch network to realize pose estimation and segmentation simultaneously. A solution to generate realistic 3D shoe model occlusion during the try-on process is presented. To achieve a smooth and stable tryon effect, this work further develop a novel stabilization method. Moreover, for training and evaluation, we construct the very first large-scale foot benchmark with multiple virtual shoe try-on taskrelated labels annotated. Exhaustive experiments on our newly constructed benchmark demonstrate the satisfying performance of ARShoe. Practical tests on common smartphones validate the real-time performance and stabilization of the proposed approach
 # Summary. An optional shortened abstract.
-# 
+summary: '<font color=DAB88B>ACM MM2021.</font> *Proposed a real-time augmented reality virtual shoe try-on system for smartphones. The system has been implemented in [JD App](https://app.jd.com/).*'
 
 tags:
 - Augmented reality
 - Visual shoe try-on
-featured: false
+featured: true
 
 links:
 #- name: Custom Link
