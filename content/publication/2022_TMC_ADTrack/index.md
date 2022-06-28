@@ -19,8 +19,8 @@ publishDate: "2022-03-22T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Transactions on Mobile Computing, 2022. (JCR Q1, IF = 5.577)
-publication_short: '*IEEE T-MC* (JCR Q1, IF = 5.577)'
+publication: IEEE Transactions on Mobile Computing, 2022. (JCR Q1, IF = 6.075)
+publication_short: '*IEEE T-MC* (JCR Q1, IF = 6.075)'
 
 abstract: Unmanned aerial vehicle (UAV) has facilitated a wide range of real-world applications and attracted extensive research in the mobile computing field. Specially, developing real-time robust visual onboard trackers for all-day aerial maneuver can remarkably broaden the scope of intelligent deployment of UAV. However, prior tracking methods have merely focused on robust tracking in the well-illuminated scenes, while ignoring trackers’ capabilities to be deployed in the dark. In darkness, the conditions can be more complex and harsh, easily posing inferior robust tracking or even tracking failure. To this end, this work proposes a novel discriminative correlation filter-based tracker with illumination adaptive and anti-dark capability, namely ADTrack. ADTrack firstly exploits image illuminance information to enable adaptability of the model to the given light condition. Then, by virtue of an efficient enhancer, ADTrack carries out image pretreatment where a target aware mask is generated. Benefiting from the mask, ADTrack aims to solve a novel dual regression problem where dual filters are online trained with mutual constraint. Besides, this work also constructs a UAV nighttime tracking benchmark UAVDark135. Exhaustive experiments on authoritative benchmarks and onboard tests are implemented to validate the superiority and robustness of ADTrack in all-day conditions.
 # Summary. An optional shortened abstract.

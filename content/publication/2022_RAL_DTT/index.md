@@ -21,8 +21,8 @@ publishDate: "2022-06-17T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Robotics and Automation Letters, 2022 (JCR Q2, IF = 3.741).
-publication_short: '*RA-L* (JCR Q2, IF = 3.741)'
+publication: IEEE Robotics and Automation Letters, 2022 (JCR Q2, IF = 4.321).
+publication_short: '*RA-L* (JCR Q2, IF = 4.321)'
 
 abstract: Semantic segmentation is of great value to autonomous driving and many robotic applications, while it highly depends on costly and time-consuming pixel-level annotation. To make full use of unlabeled data, this work proposes a deep tri-training framework (dubbed DTT) to utilize labeled along with unlabeled data for training in a semi-supervised manner. Concretely, in the DTT framework, three networks are initialized with the same structure but different parameters. The networks are optimized circularly, where one network is trained in each optimization step with the guidance of the other two networks. A simple yet effective voting mechanism is adopted to construct reliable training sets from unlabeled data for the training stage and fusing multi-experts prediction in the testing stage. Exhaustive experiments on Cityscapes and PASCAL VOC 2012 demonstrate that the proposed DTT realizes state-of-the-art performance in the semi-supervised segmentation task. The source code is available in the supplementary material and will be made publicly available.
 

@@ -20,12 +20,12 @@ publishDate: "2021-05-24T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Transactions on Industrial Electronics, 2021. (JCR Q1, IF = 8.236)
-publication_short: '*IEEE T-IE* (JCR Q1, IF = 8.236)'
+publication: IEEE Transactions on Industrial Electronics, 2021. (JCR Q1, IF = 8.162)
+publication_short: '*IEEE T-IE* (JCR Q1, IF = 8.162)'
 
 abstract: As a sort of model-free tracking approach, discriminative correlation filter (DCF)-based trackers have shown prominent performance in unmanned aerial vehicle (UAV) tracking. Nevertheless, typical DCFs acquire all samples oriented to filter training merely from the current frame by cyclic shift operation in the spatial domain but ignore the consistency between samples across the timeline. The lack of temporal cues restricts the performance of DCFs under object appearance variations arising from object/UAV motion, scale variations, and viewpoint changes. Besides, many existing methods commonly neglect the channel discrepancy in object position estimation and generally treat all channels equally, thus limiting the further promotion of the tracking discriminability. To these concerns, this work proposes a novel tracking approach based on a multi-regularized correlation filter, i.e., MRCF tracker. By regularizing the deviation of responses and the reliability of channels, the tracker enables smooth response variations and adaptive channel weight distributions simultaneously, leading to favorable adaption to object appearance variations and enhancement of discriminability. Exhaustive experiments on five authoritative UAV-specific benchmarks validate the competitiveness and efficiency of MRCF against top-ranked trackers. Furthermore, we apply our proposed tracker to monocular UAV self-localization under air-ground robot coordination. Evaluations indicate the practicability of the presented method in UAV localization applications.
 # Summary. An optional shortened abstract.
-summary: '<font color=DAB88B>IEEE T-IE (IF: 8.236).</font> *Proposed the multi-regularized CF and constructed a visual tracking-based UAV self-localization system.*'
+summary: '<font color=DAB88B>IEEE T-IE (IF: 8.162).</font> *Proposed the multi-regularized CF and constructed a visual tracking-based UAV self-localization system.*'
 
 tags:
 - Unmanned aerial vehicle (UAV)
