@@ -24,22 +24,33 @@ mainbody (write down the main text)
 
 --- (additional break line)
 
+// if you want to highlight <font style="font-size: 4x; filter: shadow(color=black); width: 71.27%; color: #FF0000; line-height: 150%; font-family: 华文彩云; height: 60px">Spot!!</font>
+
 -->
 <div style="height: 300px; overflow-y:scroll;">
+<details>
+  <summary><font size="4x">2022-06: Five papers accepted by IROS 2022!</font> </summary>
+  <p><font size="4x">Our papers <a href="../publication/2022_iros_siampsa/">SiamPSA</a>, <a href="../publication/2022_iros_highlightnet/">HighlightNet</a>, <a href="../publication/2022_iros_lpat/">LPAT</a>, <a href="../publication/2022_iros_afrt/">AFRT</a>, and <a href="../publication/2022_ral_dtt/">DTT</a>, are accepted by IROS 2022 in Kyoto, Japan!</font></p>
+</details>
+<!-- <details open>
+  <summary><font size="5x">2022-06: Five papers accepted by IROS 2022!</font> </summary>
+  <p>Our papers "<a href="../publication/2022_iros_siampsa/">Siamese Object Tracking for Vision-Based UAM Approaching with Pairwise Scale-Channel Attention</a>", "<a href="../publication/2022_iros_highlightnet/">HighlightNet: Highlighting Low-Light Potential Features for Real-Time UAV Tracking</a>", "<a href="../publication/2022_iros_lpat/">Local Perception-Aware Transformer for Aerial Tracking</a>", "<a href="../publication/2022_iros_afrt/">ResamplingNet: End-to-End Adaptive Feature Resampling Network for Real-Time Aerial Tracking</a>", and "<a href="../publication/2022_ral_dtt/">Deep Tri-Training for Semi-Supervised Image Segmentation</a>", are accepted by IROS 2022 in Kyoto, Japan!
+</details> -->
+
 <details>
   <summary><font size="4x">2022-06: One paper accepted by IEEE RAL!</font> </summary>
   <p><font size="4x">Our paper "<a href="https://jayye99.github.io/publication/2022_ral_dtt/">Deep Tri-Training for Semi-Supervised Image Segmentation</a>" is accepted by IEEE Robotics and Automation Letters!</font></p>
 </details>
 
 <details>
-  <summary><font size="4x">2022-03: ETH Robotics Student Fellowship! :beer::beer::beer:</font> </summary>
+  <summary><font size="4x">2022-03: ETH Robotics Student Fellowship! :beer::beer::beer:</font> <font style="font-size: 4x; filter: shadow(color=black); width: 71.27%; color: #FF0000; line-height: 150%; font-family: 华文彩云; height: 60px">Spot!!</font></summary>
   <p><font size="4x">I am delighted to be accepted by the <a href="https://center-for-robotics.ethz.ch/education/robotics-student-fellowship.html">ETH RSF program</a>. The acceptance rate is only 5.9%! This summer, I will be an incoming research intern in the <a href="http://www.cvg.ethz.ch/index.php">Computer Vision and Geometry group</a> led by <a href="https://scholar.google.com/citations?user=YYH0BjEAAAAJ&hl=en">Prof. Marc Pollefeys</a> with a full grant.
   </font>
   </p>
 </details>
 
 <details>
-  <summary><font size="4x">2022-03: One paper accepted by CVPR 2022! :sunglasses:</font> </summary>
+  <summary><font size="4x">2022-03: One paper accepted by CVPR 2022! :sunglasses:</font> <font style="font-size: 4x; filter: shadow(color=black); width: 71.27%; color: #FF0000; line-height: 150%; font-family: 华文彩云; height: 60px">Spot!!</font></summary>
   <p><font size="4x">Our paper "<a href="https://jayye99.github.io/publication/2022_cvpr_udat/">Unsupervised Domain Adaptation for Nighttime Aerial Tracking</a>" is accepted by CVPR 2022 in New Orleans, Louisiana, USA!
   Great thanks to my co-authors~
   </font>
@@ -52,7 +63,7 @@ mainbody (write down the main text)
 </details>
 
 <details>
-  <summary><font size="4x">2022-01: One paper accepted by IEEE RA-L! :fireworks:</font> </summary>
+  <summary><font size="4x">2022-01: One paper accepted by IEEE RA-L! :fireworks:</font> <font style="font-size: 4x; filter: shadow(color=black); width: 71.27%; color: #FF0000; line-height: 150%; font-family: 华文彩云; height: 60px">Spot!!</font></summary>
   <p><font size="4x">Our paper "<a href="https://jayye99.github.io/publication/2022_ral_sct/">Tracker Meets Night: A Transformer Enhancer for UAV Tracking</a>" is accepted by IEEE Robotics and Automation Letters!</font></p>
 </details>
 
@@ -83,7 +94,7 @@ mainbody (write down the main text)
 </details>
 
 <details>
-  <summary><font size="4x">2021-05: Our paper MRCF accepted by IEEE TIE :100:</font> </summary>
+  <summary><font size="4x">2021-05: Our paper MRCF accepted by IEEE TIE :100:</font> <font style="font-size: 4x; filter: shadow(color=black); width: 71.27%; color: #FF0000; line-height: 150%; font-family: 华文彩云; height: 60px">Spot!!</font></summary>
   <p><font size="4x">Our paper "<a href="https://jayye99.github.io/publication/2021_tie_mrcf_tracker/">Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization</a>" is accepted by IEEE Transactions on Industrial Electronics!</font></p>
 </details>
 
